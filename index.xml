@@ -6,8 +6,20 @@
     <description>Recent content on Adventure Time!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Sep 2017 20:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 20:14:29 +0000</lastBuildDate>
     <atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>new test post</title>
+      <link>http://example.com/posts/new-test-post/</link>
+      <pubDate>Tue, 12 Sep 2017 20:14:29 +0000</pubDate>
+      
+      <guid>http://example.com/posts/new-test-post/</guid>
+      <description>&lt;p&gt;asdfasdfas b;ajhs asdfklj asdf;lkweru asdf&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://example.com/forestryio/images/newsletter-email.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>firstpage</title>
